@@ -1,3 +1,6 @@
 #Quacamole
 ##Ingredients
-## Instructionsø
+*avocado
+*lemon
+*salt
+## Instructions
